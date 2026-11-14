@@ -1,0 +1,18 @@
+data/
+tools/정답지.md
+__pycache__/
+*.pyc
+.env
+.vercel/
+시안.png
+시안2.png
+
+# 정답이 들어 있는 파일 (build_topics.py / build_quiz.py 로 다시 만듦)
+topics/
+quiz.json
+
+# 비밀값·로컬 설정
+.env.*
+*.pem
+*.key
+.claude/

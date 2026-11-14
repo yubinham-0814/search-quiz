@@ -1,0 +1,111 @@
+{
+  "title": "감 테스트",
+  "subtitle": "어떤 것이 가장 많이 검색되었을까?",
+  "grades": [
+    {
+      "min": 90,
+      "name": "촉이 데이터급",
+      "emoji": "🎯"
+    },
+    {
+      "min": 70,
+      "name": "감이 좋은 편",
+      "emoji": "📊"
+    },
+    {
+      "min": 50,
+      "name": "보통의 감각",
+      "emoji": "🙂"
+    },
+    {
+      "min": 30,
+      "name": "느낌대로 삽니다",
+      "emoji": "🎲"
+    },
+    {
+      "min": 0,
+      "name": "감은 접어두시죠",
+      "emoji": "🙈"
+    }
+  ],
+  "reactions_choice": {
+    "hit": "맞히셨습니다",
+    "miss": "다들 그렇게 찍습니다"
+  },
+  "reactions": [
+    {
+      "max": 5,
+      "text": "촉이 좋으시네요"
+    },
+    {
+      "max": 20,
+      "text": "비슷하게 보셨습니다"
+    },
+    {
+      "max": 60,
+      "text": "음…"
+    },
+    {
+      "max": 999,
+      "text": "꽤 멀리 가셨습니다"
+    }
+  ],
+  "topics": [
+    {
+      "id": "search-idol",
+      "emoji": "🎤",
+      "title": "검색 대결: 아이돌",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    },
+    {
+      "id": "search-food",
+      "emoji": "🍜",
+      "title": "검색 대결: 음식",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    },
+    {
+      "id": "search-slang",
+      "emoji": "💬",
+      "title": "검색 대결: 유행어",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    },
+    {
+      "id": "search-game",
+      "emoji": "🎮",
+      "title": "검색 대결: 게임",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    },
+    {
+      "id": "search-movie",
+      "emoji": "🎬",
+      "title": "검색 대결: 드라마/영화",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    },
+    {
+      "id": "search-sport",
+      "emoji": "⚽",
+      "title": "검색 대결: 스포츠",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    },
+    {
+      "id": "search-brand",
+      "emoji": "📱",
+      "title": "검색 대결: 브랜드/앱",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    },
+    {
+      "id": "search-travel",
+      "emoji": "✈️",
+      "title": "검색 대결: 여행지",
+      "blurb": "2026년 1~10월, 한국 구글 검색 기준",
+      "source": "Google Trends (웹 검색, 상대지수)"
+    }
+  ]
+}
